@@ -1,1 +1,1 @@
-# windows-website-clone
+Windows Site Recreation with HTML CSS and JavaScript
